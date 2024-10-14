@@ -1,10 +1,10 @@
-<h1 align="center">Night Goggles</h1>
+<h1 align="center">🌌 Night Goggles 🌌</h1>
 
 <p align="center">
   <img src="Pics/BG.webp" alt="Galactic TrailBlaze Logo" height="200" />
 </p>
 
-<h2>Overview</h2>
+<h2>✨ Overview</h2>
 <p>
   The Futuristic Smart Goggles project is an innovative wearable tech concept
   designed to merge cutting-edge technology with sleek, modern design. These
@@ -15,7 +15,7 @@
   life.
 </p>
 
-<h2>Features</h2>
+<h2>🌟 Features</h2>
 <ul>
   <li>
     <strong>Heads-Up Display (HUD):</strong> Transparent display embedded in the
@@ -48,7 +48,7 @@
   </li>
 </ul>
 
-<h2>Future Enhancements</h2>
+<h2>🚀 Future Enhancements</h2>
 <ul>
   <li>
     <strong>Gesture Control:</strong> Adding gesture recognition for hands-free
@@ -64,26 +64,26 @@
   </li>
 </ul>
 
-<h2>Contributing</h2>
+<h2>🤝 Contributing</h2>
 <p>
-  We welcome contributions from the community!. It will be real helpful if this
-  small idea becomes a real life gadget, so I will be really glad if u can make
-  contributions to this repository.
+  We welcome contributions from the community! It will be really helpful if this
+  small idea becomes a real-life gadget, so I will be glad if you can make
+  contributions to this repository. 🌈
 </p>
 
-<h2>License</h2>
+<h2>📜 License</h2>
 <p>
   This project is licensed under the <strong>MIT License</strong>. For more
   information, please refer to the <a href="LICENSE">LICENSE</a> file.
 </p>
 
-<h2>Special Thanks to:</h2>
+<h2>🙏 Special Thanks to:</h2>
 <ul>
   <li>
     <strong>Karthikeya:</strong>
     <p>
       For his help in developing the 3D model and actively aiding in the fixes
-      and refining
+      and refining. 🎨
       <br />
       Check his GitHub page at:
       <a href="https://github.com/alurubalakarthikeya"> Here </a>
@@ -91,16 +91,15 @@
   </li>
   <li>
     <strong>Ayush:</strong>
-    For his help in aiding in the development of the 3D model and actively
-    aiding in the fixes and also solely responisble for the 3D models
-    afformented in the Extras folder.
+    For his help in developing the 3D model and actively aiding in the fixes and also solely responsible for the 3D models
+    aforementioned in the Extras folder. 🛠️
     <br />
     Check his GitHub page at:
     <a href="https://github.com/ayushsingh08-ds">Here</a>
   </li>
 </ul>
 
-<h2>Details</h2>
+<h2>📸 Details</h2>
 
 <h3>⦾ Night Goggle Page:-</h3>
 <div align="center">
@@ -114,7 +113,7 @@
   data visualization.
 </p>
 
-<h4>Additional Pictures:-</h4>
+<h4>🖼️ Additional Pictures:-</h4>
 <div align="center">
   <img src="FrontView.png" alt="FrontView" height="200px" />
   <img src="" alt="" height="5px" />
@@ -145,10 +144,10 @@
   seamlessly transforms from a comfortable chair into a functional table.
   Designed for space-saving convenience, it features a quick-fold mechanism and
   durable materials, offering both style and practicality for small spaces or
-  multi-purpose use.
+  multi-purpose use. 🪑
 </p>
 
-<h4>Additional Pictures:-</h4>
+<h4>🖼️ Additional Pictures:-</h4>
 <div align="center">
   <img src="Extras/Chair/Pics/FrontView.png" alt="FrontView" height="200px" />
   <img src="" alt="" height="5px" />
@@ -163,14 +162,14 @@
   <img src="Extras/Table/Pics/Isometric.png" alt="Chair Pic" height="300px" />
 </div>
 <p>
-  <strong>Convertible Table-Chair</strong>: A versatile piece of furniture that
+  <strong>Convertible Table-Chair:</strong> A versatile piece of furniture that
   seamlessly transforms from a comfortable table into a functional chair.
   Designed for space-saving convenience, it features a quick-fold mechanism and
   durable materials, offering both style and practicality for small spaces or
-  multi-purpose use.
+  multi-purpose use. 🛋️
 </p>
 
-<h4>Additional Pictures:-</h4>
+<h4>🖼️ Additional Pictures:-</h4>
 <div align="center">
   <img src="Extras/Table/Pics/FrontView.png" alt="FrontView" height="200px" />
   <img src="" alt="" height="5px" />
@@ -180,7 +179,7 @@
   <img src="" alt="" height="5px" />
 </div>
 
-<h2>Conclusion</h2>
+<h2>🌈 Conclusion</h2>
 <p>
   The <strong>Futuristic Smart Goggles</strong> project represents a bold step
   into the future of wearable technology, blending style with advanced features
@@ -190,13 +189,11 @@
   both everyday use and specialized applications. As the project evolves, the
   integration of AI, gesture control, and environmental sensors will further
   enhance its functionality, paving the way for a truly immersive tech
-  experience.
+  experience. 🚀
 </p>
 <p>
-  Similarly, the <strong>Convertible Chair-Table </strong>brings versatility and
+  Similarly, the <strong>Convertible Chair-Table</strong> brings versatility and
   practicality to modern living spaces, offering a seamless transition between a
   chair and a table. Its smart design optimizes space without compromising
   comfort or functionality, making it ideal for small homes, offices, or
-  multipurpose rooms. The combination of style, convenience, and adaptability
-  makes it a standout piece for those seeking innovative furniture solutions.
-</p>
+  multip
