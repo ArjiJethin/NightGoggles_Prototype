@@ -116,7 +116,7 @@
 
 <h4>Additional Pictures:-</h4>
 <div align="center">
-  <img src="FrontView.png" alt="FrontView" height="175px" />
+  <img src="FrontView.png" alt="FrontView" height="200px" />
   <img src="" alt="" height="5px" />
   <img src="Pics/Battery.png" alt="Battery" height="200px" />
   <img src="" alt="" height="5px" />
@@ -150,7 +150,7 @@
 
 <h4>Additional Pictures:-</h4>
 <div align="center">
-  <img src="Extras/Chair/Pics/FrontView.png" alt="FrontView" height="175px" />
+  <img src="Extras/Chair/Pics/FrontView.png" alt="FrontView" height="200px" />
   <img src="" alt="" height="5px" />
   <img src="Extras/Chair/Pics/SideView.png" alt="SideView" height="200px" />
   <img src="" alt="" height="5px" />
@@ -172,7 +172,7 @@
 
 <h4>Additional Pictures:-</h4>
 <div align="center">
-  <img src="Extras/Table/Pics/FrontView.png" alt="FrontView" height="175px" />
+  <img src="Extras/Table/Pics/FrontView.png" alt="FrontView" height="200px" />
   <img src="" alt="" height="5px" />
   <img src="Extras/Table/Pics/SideView.png" alt="SideView" height="200px" />
   <img src="" alt="" height="5px" />
